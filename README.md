@@ -1,1 +1,2 @@
 # BDC-Pressure
+This project uses NHL player tracking data to compute pressure metrics that quantify how effectively players cover passing lanes and apply defensive force. Players are classified into defensive archetypes based on their spatial tendencies, pressure application, and movement patterns relative to the puck and opposing skaters. Built on the Andrienko et al. (2017) pressure framework, adapted and scaled for ice hockey rink dimensions.
